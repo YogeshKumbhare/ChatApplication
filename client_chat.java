@@ -7,7 +7,7 @@ import java.net.*;import java.io.*;import java.util.*;
 public class client_chat extends javax.swing.JFrame 
 {
 	
-	
+	hello nilesh;
 	//variable declaration 
 	
 	private javax.swing.JButton b_anonymous;
